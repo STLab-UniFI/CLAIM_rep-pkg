@@ -50,5 +50,5 @@ for partname in ('cbars','cmins','cmaxes','cmedians'):
 
 fig.suptitle("Execution time", fontsize=24, weight="bold")
 
-plt.savefig("../data/analysis/execution_time_plot.png")
+plt.savefig("../data/analysis/plot/execution_time_plot.png")
 plt.show()

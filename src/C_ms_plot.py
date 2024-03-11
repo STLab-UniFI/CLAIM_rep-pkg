@@ -60,7 +60,7 @@ ax.set_xticks([0.4, 1], labels=["CLAIM", "Baresi et al."])
 
 fig.suptitle("Microservices detection (false positives)", fontsize=24, weight="bold")
 
-plt.savefig("../data/analysis/ms_plot_false_positives.png")
+plt.savefig("../data/analysis/plot/ms_plot_false_positives.png")
 plt.show()
 
 
@@ -112,5 +112,5 @@ ax.set_xticks([0.4, 1], labels=["CLAIM", "Baresi et al."])
 
 fig.suptitle("Microservices detection (false negatives)", fontsize=24, weight="bold")
 
-plt.savefig("../data/analysis/ms_plot_false_negatives.png")
+plt.savefig("../data/analysis/plot/ms_plot_false_negatives.png")
 plt.show()

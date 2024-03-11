@@ -46,5 +46,5 @@ ax.set_title("compose file detection", fontsize=24, weight="bold")
 ax.set_ylabel("Number of commits", fontsize=24)
 ax.legend(loc="upper center", fontsize=24)
 
-plt.savefig("../data/analysis/dc_plot.png")
+plt.savefig("../data/analysis/plot/dc_plot.png")
 plt.show()
