@@ -1,6 +1,6 @@
-# CLAIM: a Lightweight Approach for Identifying Microservices in Dockerized Environments
+# CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments
 This repository is a companion page for the following publication:
-> Anonymous 2024. CLAIM: a Lightweight Approach for Identifying Microservices in Dockerized Environments. Submitted for 
+> Anonymous 2024. CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments. Submitted for 
 > revision to the 28th International Conference on Evaluation and Assessment in Software Engineering (EASE)
 
 It contains an implementation of CLAIM tool and all the material required for replicating the study, including: 
@@ -14,7 +14,7 @@ If this study is helping your research, consider to cite it is as follows, thank
 
 ```
 @article{claim,
-  title={CLAIM: a Lightweight Approach for Identifying Microservices in Dockerized Environments},
+  title={CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments},
   author={Anonymous},
   journal={International Conference on Evaluation and Assessment in Software Engineering (EASE)},
   year={2024}
