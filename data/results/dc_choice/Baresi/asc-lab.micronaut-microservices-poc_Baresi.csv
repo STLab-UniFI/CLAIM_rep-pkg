@@ -1,0 +1,11 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 4)]","[('5169e13088bcf2063d87e8daeae3dcb66ff6ce9f', '017c9c3f7a8c6667750073a269c80e2b4f64ef4d')]",[],
+"[(5, 102)]","[('f1c4c579b7d8521fb395854f640115f14bdbd694', 'e9dccaffb135aae565f5eb093f36026f495d6636')]",['kafka-docker/docker-compose.yml'],/kafka-docker/docker-compose.yml
+"[(103, 137)]","[('c326a455c9b8060e59ba86a521965c5c1f6dc282', '2347f092ad801a0f9f293254baba1182c566d63d')]","['docker-compose.yml', 'kafka-docker/docker-compose.yml']",/docker-compose.yml
+"[(138, 162)]","[('cb9feecf6dcef9755532d90c18eb978c33752ccd', 'a4bab772e420db5f0773c1a4fd4ce514d58dbbc1')]",['docker-compose.yml'],/docker-compose.yml
+"[(163, 165)]","[('f0e2023ed4b09f541b510010700c2c31363cabc4', '1aaa86ca7650ef247baa0ae2ccac1742dcb4d581')]","['docker-compose.yml', 'scripts/docker-compose.yml']",/docker-compose.yml
+"[(166, 166)]","[('693db1293baebd71b425168b54cc919fc0bda204', '693db1293baebd71b425168b54cc919fc0bda204')]",['docker-compose.yml'],/docker-compose.yml
+"[(167, 167)]","[('2f18c70009e8f839c105a3a74654a28720aecb0b', '2f18c70009e8f839c105a3a74654a28720aecb0b')]","['docker-compose.yml', 'scripts/docker-compose.yml']",/docker-compose.yml
+"[(168, 168)]","[('27a073a9d22822afe874b1f32f76d981b65ac87e', '27a073a9d22822afe874b1f32f76d981b65ac87e')]",['docker-compose.yml'],/docker-compose.yml
+"[(169, 169)]","[('c6680d7fbbbbb5cb6abedd23a0afcd7b4080be3d', 'c6680d7fbbbbb5cb6abedd23a0afcd7b4080be3d')]","['docker-compose.yml', 'scripts/docker-compose.yml']",/docker-compose.yml
+"[(170, 384)]","[('7dec83cf85634825b8f8fa651576ea05e24af511', '9871a2e482f6ff8a358b8f3c6caa460374e76c36')]",['docker-compose.yml'],/docker-compose.yml

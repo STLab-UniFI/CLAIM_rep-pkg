@@ -1,0 +1,8 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 16)]","[('ae1a16f94c05831f720e17af87ffde6d8e96bed2', '689a88cf496e13d37ca24b64e82abe25839e6937')]",['docker-compose.yaml'],docker-compose.yaml
+"[(17, 17)]","[('76122b891765f0af1301cd777f8e5023a96d4a2c', '76122b891765f0af1301cd777f8e5023a96d4a2c')]","['docker-compose.yaml', 'payment/docker-compose.yaml']",docker-compose.yaml
+"[(18, 225)]","[('822250a94bba5cc771d24655ac8927f082d7dacb', 'd29e677b43a52c9879d83df9e3d02b53009593ad')]","['dispatch/docker-compose.yaml', 'docker-compose.yaml', 'payment/docker-compose.yaml']",docker-compose.yaml
+"[(226, 228)]","[('3520c27f7886fee92720b91286a78679a887eea5', '7c1aded79086c077da3706ad6962a418e2ecb9c8')]","['dispatch/docker-compose.yaml', 'docker-compose.load.yaml', 'docker-compose.yaml', 'payment/docker-compose.yaml']",docker-compose.yaml
+"[(229, 293)]","[('21a06ccec50fb8f06a7a6c0b3bb69573825e4435', 'c47eb4a1db5d3192b9cc3c1635baf6e774dedfb2')]","['dispatch/docker-compose.yaml', 'docker-compose-load.yaml', 'docker-compose.yaml', 'payment/docker-compose.yaml']",docker-compose.yaml
+"[(294, 296)]","[('caf9f7b9dd225d25914d1e739e5aae385aa6e4ec', '7c3ffda0cbe7df932b5c97072f5dee0ac983f9dd')]","['dispatch/docker-compose.yaml', 'docker-compose-load.yaml', 'docker-compose.yaml', 'payment/docker-compose.yaml', 'shipping/docker-compose.yaml']",docker-compose.yaml
+"[(297, 377)]","[('247fbb02df7d9fd0b15a170ec7456699bdb3271c', '55292e2199f2fb00a165b1f7d3045fe7f8922038')]","['dispatch/docker-compose.yaml', 'docker-compose-load.yaml', 'docker-compose.yaml', 'payment/docker-compose.yaml']",docker-compose.yaml

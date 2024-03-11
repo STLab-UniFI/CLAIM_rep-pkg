@@ -1,0 +1,7 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 21)]","[('75bf84fa773cf7066ec40ccbe400f5d734a2b4b9', '5a382742d233f87c862089769ef0d3e8ce67777b')]",[],
+"[(22, 43)]","[('020564b32f716497f1bd6eff40cd70710df1642b', '3098aa995d592f22695da53b4577499ff04e63d6')]",['compose.yml'],
+"[(44, 60)]","[('0273a58bcecad6b89df5dcda0d859a7dcdd71d8d', 'db057c38dc123cc4be43aabf4a5bb99efe452fb8')]",['docker-compose.yml'],/docker-compose.yml
+"[(61, 317)]","[('5ec92238a856ecfd6d8f5e772b5a7a10a83d4e9a', '90964205fd37a3dbd8d36b9d7362590ced4bc818')]","['docker-compose.yml', 'src/featureflagservice/docker-compose.yml']",/docker-compose.yml
+"[(318, 494)]","[('5a2c0efa923f18bc1f5ae12bbd1843619b351ece', 'c1e66b88d6ba561347053ac2bf62ceff675b6b9e')]",['docker-compose.yml'],/docker-compose.yml
+"[(495, 697)]","[('5a057373a5f948d0bac2830ec32cf517a98b5533', 'd2eae5f4d04ff89b439ce0c6e66d928454e01a4b')]","['docker-compose.minimal.yml', 'docker-compose.yml']",/docker-compose.yml

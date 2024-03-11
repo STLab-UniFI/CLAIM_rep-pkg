@@ -1,0 +1,5 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 4)]","[('e5563528759063a84af10931e0cb7b4961d045fa', '9f0ae7c6eb8cfe21d1185b398638242bee5ac70b')]",[],
+"[(5, 7)]","[('6318176d55cfb5d433de65ce32df9c16056b3cd7', '0c388c8a8298fdbbb8988e54d02271f64703d923')]",['docker-compose.yml'],docker-compose.yml
+"[(8, 129)]","[('53933ff5823c5883409d93d496f28a23dfacad58', '0e4b5997d4facfe9249911c4c78e4a1b7bbff6ea')]","['docker-compose.override.yml', 'docker-compose.yml']",docker-compose.yml
+"[(130, 275)]","[('fc637fa45eb494d17a8487ab4be912b8d1366248', '46b19b553096c605ac96194f4e5a3b022ae9cf6b')]","['docker-compose-test.override.yml', 'docker-compose-test.yml', 'docker-compose.override.yml', 'docker-compose.yml']",docker-compose.yml

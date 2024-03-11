@@ -1,0 +1,3 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 32)]","[('a1c946671423ad8fda0890e8fc50fe8da2e37242', '39d768aef951f5b0fb0eafae92f70c0ae830f971')]",[],
+"[(33, 1509)]","[('22ed0669bf6c65891b1789af1f9f929a16b40f42', '578998b11eb4034b645b28aafda3fcab56666ec4')]",['docker-compose.yml'],docker-compose.yml

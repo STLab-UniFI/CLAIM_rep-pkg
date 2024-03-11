@@ -1,0 +1,5 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 178)]","[('1ba3e35746d83472b308b2c59844c1214b88fb6d', 'ab14c42da0f5771fdefd9c7ae48293287c1ebbed')]",['docker-compose.yml'],/docker-compose.yml
+"[(179, 185)]","[('0ae5661e5f2b2edf36d42c9abf51497a73aca728', '6748ceded0ed7975ba2ae92be67f43de4c156aa3')]","['docker-compose-v3.yml', 'docker-compose.yml']",/docker-compose.yml
+"[(186, 187)]","[('41f0150a3ab2a597fa3fc528deb6385dffd18184', 'd227b4a4b2cedab963ea31963ab9fc92e9bdd528')]","['docker-compose-v3.yml', 'docker-compose.yml', 'eureka-cluster/docker-compose-base.yml']",/docker-compose.yml
+"[(188, 279)]","[('14a35bcaf87c8150255f61f25f55ecb8366dd987', '654cf9b0700a50cdfc7abfdd121a7284478e7eb6')]","['docker-compose-v3.yml', 'docker-compose.yml', 'eureka-cluster-swarm/docker-compose-base.yml']",/docker-compose.yml

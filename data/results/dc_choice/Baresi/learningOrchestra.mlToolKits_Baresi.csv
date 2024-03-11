@@ -1,0 +1,6 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 7)]","[('b11a11a826a1db0715dc9d12eb05eb833b56514f', '8d3ce8037c9570ee81694b2c4c6f1d314652bdeb')]",[],
+"[(8, 13)]","[('76ad253bfc5ca4293ba7a715ce91c50c99f3f729', '8da496b2ba8fb01370b7881ed29e13ee30a71464')]",['database_service/docker-compose.yml'],/database_service/docker-compose.yml
+"[(14, 27)]","[('728dab4054b9f6259b8e5dd8e2429d0792a83f6f', '81575f5388cc6c9418aad21dff15ce764fab3708')]",['database_services/docker-compose.yml'],/database_services/docker-compose.yml
+"[(28, 29)]","[('8d2cfc0fe3b7a2fd736c3180c8b1a3acbbf880b8', '464d75e08717e50532549855c800bff6ee75097d')]","['database_services/docker-compose.yml', 'docker-compose.yml']",/docker-compose.yml
+"[(30, 1214)]","[('0da014aa8299e831328f7c27e1780a8500af44ef', '084699b830dc6d9d18b245625c77271156250b78')]",['docker-compose.yml'],/docker-compose.yml

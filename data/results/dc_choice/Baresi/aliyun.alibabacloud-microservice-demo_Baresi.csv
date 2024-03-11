@@ -1,0 +1,8 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 15)]","[('f2a9b528c92a9b925678208e153919436740e596', 'aa0181abcdeb856c9c0748d6c8d6edf222c56347')]",[],
+"[(16, 111)]","[('680e4ea4842d639b181fd8ec744bf098dfc137e1', 'f6fddf5ee319c35980dbe0d62f9b22571a5632c1')]",['docker-compose.yaml'],
+"[(112, 115)]","[('453c9e87c33dab8c7aee8c72f4c55af89b02808f', '115c5c0dcb9a55249e9d076fce54e18f26a03129')]",['docker-compose.yml'],/docker-compose.yml
+"[(116, 118)]","[('4cc08fcd61a4f351f29e4f38401654f10fb84c20', '157177b6e33e3bb0b89c05d217f49afb4929eb97')]",['docker-compose.yaml'],
+"[(119, 130)]","[('9e934ba2d8337d8fb5b5e3f86eb23b299f51369d', '7bb8c1b50be446cd76eb63fce48312460c3e2b88')]","['docker-compose-ali.yml', 'docker-compose.yml']",/docker-compose.yml
+"[(131, 131)]","[('3a3ef9bd1d60cf3ff6c54737ff22e6199363a0b4', '3a3ef9bd1d60cf3ff6c54737ff22e6199363a0b4')]",['docker-compose.yaml'],
+"[(132, 422)]","[('baf6a4363266772b0d600505ab0c242562d1883a', '4a6a20822e188d0a76ed728a3a4a8dec1d98ea27')]","['docker-compose-ali.yml', 'docker-compose.yml']",/docker-compose.yml

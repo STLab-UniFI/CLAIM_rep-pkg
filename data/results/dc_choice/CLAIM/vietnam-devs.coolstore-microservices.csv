@@ -1,0 +1,14 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 440)]","[('a936422283f0ec29e27504f80b87889dc3a874f7', '7d4d94ac6c96238d1d281c967fc0233e0e643889')]",[],
+"[(441, 491)]","[('428df65d878a079895acbfc33077bf1414b1f6f7', '101a2401aae0ea35ab31222dc513f5073415fc26')]",['docker-compose.yml'],docker-compose.yml
+"[(492, 492)]","[('a4eff20a17ceefc8353ef0359a6c00764e295c38', 'a4eff20a17ceefc8353ef0359a6c00764e295c38')]",[],
+"[(493, 513)]","[('e4114422f49ae0bea551e5a4cbc906790ff7bfb8', 'e82be04351950b11219beeb74f3be629a7d02505')]",['docker-compose.yml'],docker-compose.yml
+"[(514, 514)]","[('bd9d3271299175623f4ca69e03a8e94c1656f2d6', 'bd9d3271299175623f4ca69e03a8e94c1656f2d6')]","['docker-compose-graphql.yml', 'docker-compose.yml']",docker-compose.yml
+"[(515, 515)]","[('4ab43f94e3d99e1b3222019dbc68cde541e86a99', '4ab43f94e3d99e1b3222019dbc68cde541e86a99')]","['docker-compose-graphql.dev.yml', 'docker-compose-graphql.yml', 'docker-compose.yml']",docker-compose.yml
+"[(516, 573)]","[('2fb78cad8ca436fe7b19f888046b868c113007f8', '1c0c32e044cb7d655ef738e91241364fdeabb28f')]","['docker-compose-graphql.dev.yml', 'docker-compose-graphql.headless.yml', 'docker-compose-graphql.yml', 'docker-compose.yml']",docker-compose.yml
+"[(574, 610)]","[('195379a73ef1c2ac22b2eab62e24fa9410f5f8c2', 'f06601cd1c721f62606ec9db263cc1fb44a65742')]","['docker-compose.dev.yml', 'docker-compose.yml']",docker-compose.yml
+"[(611, 626)]","[('abf7bb45a83c2832b056ae6256c29f2e34b543db', '9650a64637d9e4666d19a15f2761c2fc904b5954')]","['docker-compose.base.override.yml', 'docker-compose.base.yml', 'docker-compose.override.yml', 'docker-compose.yml']",docker-compose.yml
+"[(627, 654)]","[('0fbd5a6dbfd43803c7b6079cf0e3657f274a59ae', '873632f151707cee5d5bb69c8535f6c6e0026d59')]","['docker-compose.override.yml', 'docker-compose.yml']",docker-compose.yml
+"[(655, 656)]","[('6c0f259ac4e29572b2f92e59f0e928ecd3af8f51', 'f788414d8673dfb5bdcc04c416fd79cb1e56b437')]","['docker-compose.override.yml', 'docker-compose.yml', 'src/rust/.devcontainer/docker-compose.yml']",docker-compose.yml
+"[(657, 659)]","[('6d91d15fbb4704cdbf04f3fe924f57efc93f69b5', 'fb9b243416dde1794e3f71ba92a23e47320aa170')]","['docker-compose.override.yml', 'docker-compose.yml', 'src/golang/.devcontainer/docker-compose.yml', 'src/rust/.devcontainer/docker-compose.yml']",docker-compose.yml
+"[(660, 680)]","[('b7c330de3346c34b23ead9eea18ed89977f8b7d3', '2fe75484298968b68a767b351871d32d93632aa3')]","['docker-compose.override.yml', 'docker-compose.yml', 'src/go/.devcontainer/docker-compose.yml', 'src/rust/.devcontainer/docker-compose.yml']",docker-compose.yml

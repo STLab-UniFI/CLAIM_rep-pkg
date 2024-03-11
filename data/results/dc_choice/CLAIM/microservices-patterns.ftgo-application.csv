@@ -1,0 +1,29 @@
+CHUNKS_N,CHUNKS_H,DCFs,DC
+"[(1, 1)]","[('edd30eabbcefdd50496df4bd2aa9cd9059963d94', 'edd30eabbcefdd50496df4bd2aa9cd9059963d94')]",[],
+"[(2, 16)]","[('4098a02d5eaf1fa7f1975ec433b1f97035dd838a', 'b7d799a895cd65f7586d33c45d0271bcc03f602f')]",['docker-compose.yml'],docker-compose.yml
+"[(17, 18)]","[('96b34475a7f9ca28d4e9920edd575f12c33a1493', 'efb538afe7467245e059d4611a24fb90bd7777d6')]","['docker-compose.yml', 'ftgo-order-service/docker-compose-component-test.yml']",docker-compose.yml
+"[(19, 63)]","[('1a4cafd6a004ba0bb498a7b1f350ab2823d4686c', 'b9ddb8fed59eabc19fc54bba491d17df39530a74')]",['docker-compose.yml'],docker-compose.yml
+"[(64, 87)]","[('97853057058be9b37b513ac82d5e8c7dbdfcb80c', 'fd642b4ffb4628e13265bcf4ecfc2007b54f0ec6')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(88, 94)]","[('7414bd6204f86c65aac4a95a2057373bff571267', '5f10989594a4f1a6825e40f001414e0d96c32150')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(95, 98)]","[('7b084b2f749c7da1f7eaaa11912d0b963cc12fcd', 'd847a3ee655e54839a0bed31a46859f356feacf8')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(99, 101)]","[('7a1ad583f54a88c1fa8dfe8d0b1ba5b969acbbd9', '2a36a099c86455d0a5587991e9846b0e98fe430b')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(102, 103)]","[('aca6bebce13304338f3e64b07b338779ff62266d', '16a3aacecdb07464912db015c607f623a653cfc8')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(104, 104)]","[('168dda64764c855dcb2df349733a4ea68367d804', '168dda64764c855dcb2df349733a4ea68367d804')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(105, 107)]","[('59edfd0a79c81ba79a784bea02b310c3ca7d23be', '006e77b64cee2a7f282bfecb4793e46f37f98095')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(108, 113)]","[('35a0ed91d21c471c3eb0e0e977a3cb8fe6409fc6', '98c7c85cd802192a0a966543ed659f44df59b17a')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(114, 114)]","[('47a99c3c209c0e3a0212bd9527034d8485f982de', '47a99c3c209c0e3a0212bd9527034d8485f982de')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(115, 117)]","[('1a8421218df2da8855c6bdda97977a757dae77ab', '2873df37115e3c9f4be1ab62aff42b365011ed82')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(118, 118)]","[('35db60c03fd83cdc6a5c655e15e7488c4a2aa180', '35db60c03fd83cdc6a5c655e15e7488c4a2aa180')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(119, 122)]","[('617d3797b93ccb594e057b67230f0a87611c53ce', '2f3c6a9f7f26668101af0d424bd3f805ebd256b4')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(123, 123)]","[('d791626420dc8dfe92fe8bf6a1dbf1cece3cb014', 'd791626420dc8dfe92fe8bf6a1dbf1cece3cb014')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(124, 133)]","[('b31a247015337da209296143edc6614ceed28638', '3f5ecb363b52915a69e3ae6652aceec83a6c4a68')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(134, 134)]","[('51e2786107d91a3c2d78dc3a2af3625c12eb937f', '51e2786107d91a3c2d78dc3a2af3625c12eb937f')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(135, 145)]","[('dcfd7fdb251e0b0e3a9417ddd31dc7c7fc58aab4', 'd0ff1748245dc282be55732483dfc016452f80a2')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(146, 146)]","[('0d1aef808627cee1f0903c2aa3966a70d9778462', '0d1aef808627cee1f0903c2aa3966a70d9778462')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(147, 148)]","[('ce924f0a4100b5c77285c3cf0416644bbad9a75c', 'af2746665efffd835bb91fce3b3f38f08861f32e')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(149, 149)]","[('776d5fcab4bb45416f487f733380630468df5933', '776d5fcab4bb45416f487f733380630468df5933')]","['docker-compose-mariadb.yml', 'docker-compose.yml']",docker-compose.yml
+"[(150, 167)]","[('ea47123665faf289e5e58adf6fcb480b24b51fcb', 'fe91b68d35a4eeed1bf2e6b52303e00f40bf8fce')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(168, 181)]","[('8401adfd0ece85d814ebb81f64a5386100356b16', '4546a7c268206e063f4bd5284e9cbca93b868131')]",['docker-compose.yml'],docker-compose.yml
+"[(182, 190)]","[('173e5f2527a4497b56a0a3a4de86972db7a3022d', 'b0692cdfa5a494d8ce477c38200ba33c82c02477')]","['docker-compose-api-gateway-graphql.yml', 'docker-compose.yml']",docker-compose.yml
+"[(191, 191)]","[('a4af4ba07980edb7e91844a6ae8216d3d0cf573d', 'a4af4ba07980edb7e91844a6ae8216d3d0cf573d')]","['docker-compose-mariadb.yml', 'docker-compose-mysql-schema-per-service.yml', 'docker-compose.yml']",docker-compose.yml
+"[(192, 295)]","[('fe7ba8a147739d289601ee8b2e10ae67d5c72472', '558dfc53b11d30a5f1d995c0c6d58d5106c28189')]","['docker-compose-api-gateway-graphql.yml', 'docker-compose.yml']",docker-compose.yml

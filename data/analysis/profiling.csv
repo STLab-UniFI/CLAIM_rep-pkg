@@ -1,0 +1,21 @@
+REPOSITORY;MEMORY_CLAIM;TIME_CLAIM;MEMORY_BARESI;TIME_BARESI;# of commits;avg time per commits
+https://github.com/1-Platform/one-platform;40.4;125.5;30.3;79.7;1509;0.083
+https://github.com/OpenCodeFoundation/eSchool;10.1;6.4;30.3;5.5;273;0.023
+https://github.com/OpenLiberty/liberty-bikes;10.1;13.7;30.3;10.7;591;0.023
+https://github.com/ThoreauZZ/spring-cloud-example;10.1;10.4;30.3;7.8;279;0.037
+https://github.com/abpframework/eShopOnAbp;80.8;99.6;30.3;53.0;1319;0.076
+https://github.com/aliyun/alibabacloud-microservice-demo;10.1;29.7;30.3;15.2;422;0.070
+https://github.com/asc-lab/micronaut-microservices-poc;30.3;102.0;30.3;82.9;384;0.266
+https://github.com/geoserver/geoserver-cloud;80.8;124.6;30.3;55.4;1282;0.097
+https://github.com/instana/robot-shop;20.2;49.3;30.3;52.5;377;0.131
+https://github.com/jvalue/ods;70.7;57.6;30.3;45.9;1428;0.040
+https://github.com/learningOrchestra/mlToolKits;40.4;31.6;30.3;30.0;1214;0.026
+https://github.com/microsoft/dotnet-podcasts;30.3;29.4;30.3;20.7;728;0.040
+https://github.com/open-telemetry/opentelemetry-demo;70.7;58.1;30.3;51.5;697;0.083
+https://github.com/vietnam-devs/coolstore-microservices;20.2;45.5;30.3;40.8;680;0.067
+https://github.com/EdwinVW/pitstop;20.2;22.1;30.3;16.6;397;0.056
+https://github.com/FudanSELab/train-ticket;30.3;80.8;30.3;57.1;323;0.250
+https://github.com/ewolff/microservice;10.1;3.8;30.3;3.3;140;0.027
+https://github.com/microservices-patterns/ftgo-application;10.1;19.7;30.3;13.7;295;0.067
+https://github.com/spring-petclinic/spring-petclinic-microservices;10.1;20.6;30.3;20.2;727;0.028
+https://github.com/sqshq/PiggyMetrics;10.1;10.8;30.3;8.3;290;0.037
