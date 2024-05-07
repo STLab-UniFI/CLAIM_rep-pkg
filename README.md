@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://stlab-unifi.github.io/img/logos/claim.png" width="25%" height="25%">
+</p>
+
 # CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments
 This repository is a companion page for the following publication:
 Maggi, K., Verdecchia, R., Scommegna, L., Vicario, E., 2024. Claim: a Lightweight Approach to Identify Microservices350
