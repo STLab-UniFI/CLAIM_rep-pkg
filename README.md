@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://stlab-unifi.github.io/img/logos/claim.png" width="25%" height="25%">
+  <img src="CLAIM.png" height="250" style="margin:auto;"/>
 </p>
 
 # CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments
