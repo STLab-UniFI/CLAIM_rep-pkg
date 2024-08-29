@@ -21,12 +21,14 @@ The scientific article describing design, execution, and main results of this st
 If this study is helping your research, consider to cite it is as follows, thanks!
 
 ```
-@inproceedings{Maggi2024claim,
-  author        = {Maggi, Kevin and Verdecchia, Roberto and Scommegna, Leonardo and Vicario, Enrico},
-  title         = {{CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments}},
-  booktitle     = {28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)},
-  year          = {2024},
-  doi           = {10.1145/3661167.3661206}
+@inproceedings{maggi2024claim,
+  author    = {Maggi, Kevin and Verdecchia, Roberto and Scommegna, Leonardo and Vicario, Enrico},
+  title     = {{CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments}},
+  booktitle = {Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering},
+  year      = {2024},
+  publisher = {Association for Computing Machinery},
+  doi       = {10.1145/3661167.3661206},
+  url       = {https://dl.acm.org/doi/10.1145/3661167.3661206}
 }
 ```
 
