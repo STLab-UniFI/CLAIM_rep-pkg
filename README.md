@@ -4,9 +4,7 @@
 
 # CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments
 This repository is a companion page for the following publication:
-Maggi, K., Verdecchia, R., Scommegna, L., Vicario, E., 2024. Claim: a Lightweight Approach to Identify Microservices350
-in Dockerized Environments, in: 28th International Conference on Evaluation and Assessment in Software Engineering351
-(EASE 202
+Maggi, K., Verdecchia, R., Scommegna, L., Vicario, E., 2024. Claim: a Lightweight Approach to Identify Microservices in Dockerized Environments, in: 28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024)
 > Kevin Maggi, Roberto Verdecchia, Leonardo Scommegna, and Enrico Vicario. 2024.
 > CLAIM: a Lightweight Approach to Identify Microservices in Dockerized Environments.
 > In *28th International Conference on Evaluation and Assessment in Software Engineering (EASE 2024), June 18–21, 2024, Salerno, Italy.*
